@@ -1,0 +1,10 @@
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\OpMatrices\OpMatrices\obj\Debug\OpMatrices.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\OpMatrices\OpMatrices\bin\Debug\OpMatrices.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\OpMatrices\OpMatrices\bin\Debug\OpMatrices.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\OpMatrices\OpMatrices\obj\Debug\OpMatrices.dll
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\OpMatrices\OpMatrices\obj\Debug\OpMatrices.pdb
+H:\Progra\OpMatrices\OpMatrices\obj\Debug\OpMatrices.csprojResolveAssemblyReference.cache
+H:\Progra\OpMatrices\OpMatrices\obj\Debug\OpMatrices.dll
+H:\Progra\OpMatrices\OpMatrices\obj\Debug\OpMatrices.pdb
+H:\Progra\OpMatrices\OpMatrices\bin\Debug\OpMatrices.dll
+H:\Progra\OpMatrices\OpMatrices\bin\Debug\OpMatrices.pdb
